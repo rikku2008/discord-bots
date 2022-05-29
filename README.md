@@ -1,3 +1,3 @@
 # discord-bots
-discord botを紹介するサイト
+discord botを紹介するサイト  
 リンク➡coming soon...
